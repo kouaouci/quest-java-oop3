@@ -11,17 +11,13 @@ public class Nature {
         pingou.swimUp(1);
         pingou.getOut();
 
-        Eagle hawkeye = new Eagle("Hawkeye");
+        Eagle  Karima = new Eagle("Karima");
         // TODO : uncomment the following code in order to test it
-        /*
-        hawkeye.takeOff();
-        hawkeye.ascend(120);
-        hawkeye.ascend(30);
-        hawkeye.glide();
-        hawkeye.descend(140);
-        hawkeye.land();
-        hawkeye.descend(9);
-        hawkeye.land();
-        */
+      
+        Karima.takeOff();
+        Karima.glide();
+        Karima.descend(17);
+        Karima.land();
+     
     }
 }
